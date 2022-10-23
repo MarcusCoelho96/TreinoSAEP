@@ -7,7 +7,7 @@ public class marcus.victor extends aluno {
       System.out.println("
       + Atividades de treinamento
       + para a prova prática do saep 
-      + (sistema de avaliação da educação profissional));
+      + (sistema de avaliação da educação profissional)");
 
 //Curso Técnico em Desenvolvimento de Sistemas .senai
 
